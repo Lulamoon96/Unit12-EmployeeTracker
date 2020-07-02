@@ -1,0 +1,24 @@
+{
+  "name": "unit12-employeetracker",
+  "version": "1.0.0",
+  "description": "Employee tracker homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lulamoon96/Unit12-EmployeeTracker.git"
+  },
+  "author": "LUwUigi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lulamoon96/Unit12-EmployeeTracker/issues"
+  },
+  "homepage": "https://github.com/Lulamoon96/Unit12-EmployeeTracker#readme",
+  "dependencies": {
+    "figlet": "^1.4.0",
+    "inquirer": "^7.2.0",
+    "mysql": "^2.18.1"
+  }
+}
